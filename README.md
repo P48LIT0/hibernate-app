@@ -1,6 +1,6 @@
 # Hibernate demo app
 
-This app is made with java hibernate framework. Application is based on creating, reading, updating and deleting object in database from java application. Code contains elements of HQL.
+This app is made with java hibernate framework. Application is based on creating, reading, updating and deleting objects in database from java application. Code contains elements of HQL.
 
 ## Software
 
