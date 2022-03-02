@@ -12,7 +12,7 @@ This app is made with java hibernate framework. Application is based on creating
 
 P48LIT0
 
-## Acknowledgments
+## Useful links
 
 * [connecting MySQL to Eclipse](https://www.onlinetutorialspoint.com/mysql/how-to-connect-mysql-database-in-eclipse.html)
 * [mysql-connector-java-8.0.25.jar download](https://downloads.mysql.com/archives/c-j/)
